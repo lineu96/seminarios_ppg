@@ -1,0 +1,153 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Anderson et al. 1973]{Anderson73}
+\abntrefinfo{Anderson et al.}{ANDERSON et al.}{1973}
+{ANDERSON, T. et al. Asymptotically efficient estimation of covariance matrices
+  with linear structure.
+\emph{The Annals of Statistics}, Institute of Mathematical Statistics, v.~1,
+  n.~1, p. 135--141, 1973.}
+
+\bibitem[Bonat 2018]{mcglm}
+\abntrefinfo{Bonat}{BONAT}{2018}
+{BONAT, W.~H. Multiple response variables regression models in {R}: The {mcglm}
+  package.
+\emph{Journal of Statistical Software}, v.~84, n.~4, p. 1--30, 2018.}
+
+\bibitem[Bonat e J{\o}rgensen 2016]{Bonat16}
+\abntrefinfo{Bonat e J{\o}rgensen}{BONAT; J{\O}RGENSEN}{2016}
+{BONAT, W.~H.; J{\O}RGENSEN, B. Multivariate covariance generalized linear
+  models.
+\emph{Journal of the Royal Statistical Society: Series C (Applied Statistics)},
+  Wiley Online Library, v.~65, n.~5, p. 649--675, 2016.}
+
+\bibitem[Box e Cox 1964]{boxcox64}
+\abntrefinfo{Box e Cox}{BOX; COX}{1964}
+{BOX, G.~E.; COX, D.~R. An analysis of transformations.
+\emph{Journal of the Royal Statistical Society. Series B (Methodological)},
+  JSTOR, p. 211--252, 1964.}
+
+\bibitem[Cario e Nelson 1997]{norta}
+\abntrefinfo{Cario e Nelson}{CARIO; NELSON}{1997}
+{CARIO, M.~C.; NELSON, B.~L. \emph{Modeling and generating random vectors with
+  arbitrary marginal distributions and correlation matrix}.
+[S.l.], 1997.}
+
+\bibitem[Demidenko 2013]{Demidenko13}
+\abntrefinfo{Demidenko}{DEMIDENKO}{2013}
+{DEMIDENKO, E. \emph{Mixed models: theory and applications with R}. [S.l.]:
+  John Wiley \& Sons, 2013.}
+
+\bibitem[Hotelling 1951]{hotelling}
+\abntrefinfo{Hotelling}{HOTELLING}{1951}
+{HOTELLING, H. \emph{A generalized T test and measure of multivariate
+  dispersion}.
+[S.l.], 1951.}
+
+\bibitem[J{\o}rgensen 1987]{Jorgensen87}
+\abntrefinfo{J{\o}rgensen}{J{\O}RGENSEN}{1987}
+{J{\O}RGENSEN, B. Exponential dispersion models.
+\emph{Journal of the Royal Statistical Society: Series B (Methodological)},
+  Wiley Online Library, v.~49, n.~2, p. 127--145, 1987.}
+
+\bibitem[J{\o}rgensen 1997]{Jorgensen97}
+\abntrefinfo{J{\o}rgensen}{J{\O}RGENSEN}{1997}
+{J{\O}RGENSEN, B. \emph{The theory of dispersion models}. [S.l.]: CRC Press,
+  1997.}
+
+\bibitem[J{\o}rgensen e Knudsen 2004]{jorg04}
+\abntrefinfo{J{\o}rgensen e Knudsen}{J{\O}RGENSEN; KNUDSEN}{2004}
+{J{\O}RGENSEN, B.; KNUDSEN, S.~J. Parameter orthogonality and bias adjustment
+  for estimating functions.
+\emph{Scandinavian Journal of Statistics}, Wiley Online Library, v.~31, n.~1,
+  p. 93--114, 2004.}
+
+\bibitem[J{\o}rgensen e Kokonendji 2015]{Jorgensen15}
+\abntrefinfo{J{\o}rgensen e Kokonendji}{J{\O}RGENSEN; KOKONENDJI}{2015}
+{J{\O}RGENSEN, B.; KOKONENDJI, C.~C. Discrete dispersion models and their
+  tweedie asymptotics.
+\emph{AStA Advances in Statistical Analysis}, Springer, v.~100, n.~1, p.
+  43--78, 2015.}
+
+\bibitem[Lawley 1938]{lawley}
+\abntrefinfo{Lawley}{LAWLEY}{1938}
+{LAWLEY, D. A generalization of fisher's z test.
+\emph{Biometrika}, JSTOR, v.~30, n.~1/2, p. 180--187, 1938.}
+
+\bibitem[Liang e Zeger 1986]{Liang86}
+\abntrefinfo{Liang e Zeger}{LIANG; ZEGER}{1986}
+{LIANG, K.-Y.; ZEGER, S.~L. Longitudinal data analysis using generalized linear
+  models.
+\emph{Biometrika}, Oxford University Press, v.~73, n.~1, p. 13--22, 1986.}
+
+\bibitem[Martinez-Beneito 2013]{martinez13}
+\abntrefinfo{Martinez-Beneito}{MARTINEZ-BENEITO}{2013}
+{MARTINEZ-BENEITO, M.~A. A general modelling framework for multivariate disease
+  mapping.
+\emph{Biometrika}, Oxford University Press, v.~100, n.~3, p. 539--553, 2013.}
+
+\bibitem[Nelder e Wedderburn 1972]{Nelder72}
+\abntrefinfo{Nelder e Wedderburn}{NELDER; WEDDERBURN}{1972}
+{NELDER, J.~A.; WEDDERBURN, R. W.~M. {Generalized Linear Models}.
+\emph{Journal of the Royal Statistical Society. Series A (General)}, v.~135, p.
+  370--384, 1972.}
+
+\bibitem[Pillai et al. 1955]{pillai}
+\abntrefinfo{Pillai et al.}{PILLAI et al.}{1955}
+{PILLAI, K. et al. Some new test criteria in multivariate analysis.
+\emph{The Annals of Mathematical Statistics}, Institute of Mathematical
+  Statistics, v.~26, n.~1, p. 117--121, 1955.}
+
+\bibitem[Pinheiro e Bates 1996]{Pinheiro96}
+\abntrefinfo{Pinheiro e Bates}{PINHEIRO; BATES}{1996}
+{PINHEIRO, J.~C.; BATES, D.~M. Unconstrained parametrizations for
+  variance-covariance matrices.
+\emph{Statistics and computing}, Springer, v.~6, n.~3, p. 289--296, 1996.}
+
+\bibitem[Pourahmadi 2000]{Pourahmadi00}
+\abntrefinfo{Pourahmadi}{POURAHMADI}{2000}
+{POURAHMADI, M. Maximum likelihood estimation of generalised linear models for
+  multivariate normal covariance matrix.
+\emph{Biometrika}, Oxford University Press, v.~87, n.~2, p. 425--435, 2000.}
+
+\bibitem[{R Core Team} 2018]{softwareR}
+\abntrefinfo{{R Core Team}}{{R Core Team}}{2018}
+{{R Core Team}. \emph{R: A Language and Environment for Statistical Computing}.
+Vienna, Austria, 2018. Dispon{\'\i}vel em: \url{https://www.R-project.org/}.}
+
+\bibitem[Roy 1953]{roy}
+\abntrefinfo{Roy}{ROY}{1953}
+{ROY, S.~N. On a heuristic method of test construction and its use in
+  multivariate analysis.
+\emph{The Annals of Mathematical Statistics}, JSTOR, p. 220--238, 1953.}
+
+\bibitem[Smith, Gnanadesikan e Hughes 1962]{manova}
+\abntrefinfo{Smith, Gnanadesikan e Hughes}{SMITH; GNANADESIKAN; HUGHES}{1962}
+{SMITH, H.; GNANADESIKAN, R.; HUGHES, J. Multivariate analysis of variance
+  (manova).
+\emph{Biometrics}, JSTOR, v.~18, n.~1, p. 22--41, 1962.}
+
+\bibitem[Tamioso et al. 2017]{tamioso2017does}
+\abntrefinfo{Tamioso et al.}{TAMIOSO et al.}{2017}
+{TAMIOSO, P.~R.; BOISSY, A.; BOIVIN, X.; CHANDEZE, H.; ANDANSON, S.; DELVAL,
+  E.; HAZARD, D.; TACONELI, C.~A.; MOLENTO, C. F.~M. Does emotional reactivity
+  influence behavioral and cardiac responses of ewes submitted to brushing?
+\emph{Behavioural Processes}, p.~np, 2017.}
+
+\bibitem[Trecenti 2015]{Trecenti2015}
+\abntrefinfo{Trecenti}{TRECENTI}{2015}
+{TRECENTI, J. A.~Z.
+\emph{Diagramas de influência: uma aplicação em Jurimetria}.
+Disserta\c{c}\~{a}o (Mestrado) --- Instituto de Matemática e Estatística,
+  Universidade de São Paulo, 2015.}
+
+\bibitem[Wilks 1932]{wilks}
+\abntrefinfo{Wilks}{WILKS}{1932}
+{WILKS, S.~S. Certain generalizations in the analysis of variance.
+\emph{Biometrika}, JSTOR, p. 471--494, 1932.}
+
+\end{thebibliography}
