@@ -1,5 +1,19 @@
 % ----------------------------------------------------------------------
-% 
+% Fortes correlações entre o crescimento (tipo Lei de Potência) da COVID-19 em quatro continentes e a ineficiência das estratégias suaves de quarentena
 % ----------------------------------------------------------------------
 
-Resenha 2
+Resenha do seminário ministrado no dia 25/05/2020 no Programa de Pós Graduação em Informática da UFPR por Marcus Beims (professor do Departamento de Física da UFPR).
+
+No seminário ministrado pelo professor Marcus Beims foi apresentado um breve contexto a respeito de modelos epidemiológicos, como o modelo de suscetíveis e imunes (SI), o modelo de suscetíveis, infectados e recuperados (SIR) e o modelo Suscetíveis, Expostos, Infectados e Recuperados (SEIR).
+
+No trabalho foi utilizado o modelo SEIR para descrever a contaminação e estudar melhores estratégias para atingir o famoso achatamento da curva. Uma das conclusões é que modelos epidemiológicos podem ser descritos por redes de “mundo pequeno” ou “livres de escala”. 
+
+Além disso foram apresentadas técnicas para obtenção de medidas de correlação entre tempo e número de casos acumulados e também do potencial de curvas de crescimento de casos de Covid-19 ajustadas via Lei de Potência ao invés da famosa curva exponencial, amplamente utilizada e atualmente discutida no atual cenário de pandemia.
+ 
+Os resultados mostram que as estratégias de contenção são igualmente válidas em diferentes países o que refuta argumentos muito ditos no cenário atual de que deve-se regionalizar a política de isolamento no Brasil dado seu território.
+
+Outro importante resultado ressalta a importância do isolamento social para contenção do alastramento da doença considerando o potencial de disseminação do vírus e a dificuldade de identificar e isolar infectados durante a fase de contaminação fazendo com que o isolamento seja, no cenário atual, nossa única linha de defesa na ausência de uma vacina.
+
+Segundo o estudo, um distanciamento social mediano, junto com a identificação e isolamento diário de poucos dos indivíduos infectados assintomáticos, não é suficiente para diminuir significativamente o avanço do número de casos. Mostrando que as demandas e desafios atuais são encontrar meios eficientes para se identificar indivíduos contaminados que sejam assintomáticos visando o isolamento destes para que não contaminem demais indivíduos e, enquanto isso não seja possível, aumentar e reforçar de forma significativa as medidas de distanciamento social. 
+
+Deste modo, dadas as circunstâncias e dificuldades no cenário atual, nossa melhor chance para diminuição do número de infectados são implementar eficazes medidas de isolamento social combinadas à realização periódica massiva de testes que viabilizam diagnosticar indivíduos infectados assintomáticos com o objetivo de isolá-los de forma efetiva de tal modo que a taxa de reprodução deste indivíduo seja neutralizada. Deste modo, a longo prazo a taxa de reprodução geral será reduzida e sairemos do risco de colapsar o sistema de saúde. 

@@ -3,8 +3,10 @@
 \babel@toc {brazil}{}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {COVID-19 \IeC {\textendash } Conceitos de epidemiologia}}{7}{chapter.1}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {COVID-19 \IeC {\textendash } Conceitos de epidemiologia}}{5}{chapter.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Resenha 2}}{9}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Fortes correla\IeC {\c c}\IeC {\~o}es entre o crescimento (tipo Lei de Pot\IeC {\^e}ncia) da COVID-19 em quatro continentes e a inefici\IeC {\^e}ncia das estrat\IeC {\'e}gias suaves de quarentena}}{7}{chapter.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Resenha 3}}{9}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

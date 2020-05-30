@@ -293,20 +293,20 @@
 % ---
 
 % resumo em português
-\setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
-\begin{resumo}
-
-Seminários sobre o estado da arte em diversas especialidades da Ciência da Computação. Seminários assistidos:
-
-\begin{itemize}
-  
-  \item 25 de maio, COVID-19 – Conceitos de epidemiologia, Bernardo Montesanti Machado de Almeida, Medico infectologista da Unidade de Vigilancia em Saúde do CHC/UFPR.
-  
-  \item
-  
-\end{itemize}
-
-\end{resumo}
+% \setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
+% \begin{resumo}
+% 
+% Seminários sobre o estado da arte em diversas especialidades da Ciência da Computação. Seminários assistidos:
+% 
+% \begin{itemize}
+%   
+%   \item 25 de maio, COVID-19 – Conceitos de epidemiologia, Bernardo Montesanti Machado de Almeida, Medico infectologista da Unidade de Vigilancia em Saúde do CHC/UFPR.
+%   
+%   \item
+%   
+% \end{itemize}
+% 
+% \end{resumo}
 
 % ---
 % inserir lista de ilustrações
@@ -370,11 +370,15 @@ Seminários sobre o estado da arte em diversas especialidades da Ciência da Com
 <<res1, child = "res1.Rnw">>=
 @
 
-\chapter{Resenha 2}
+\chapter{Fortes correlações entre o crescimento (tipo Lei de Potência) da COVID-19 em quatro continentes e a ineficiência das estratégias suaves de quarentena}
 \label{cap:res2}
 <<res2, child = "res2.Rnw">>=
 @
 
+\chapter{Resenha 3}
+\label{cap:res2}
+<<res3, child = "res3.Rnw">>=
+@
 
 % ---
 \phantompart
