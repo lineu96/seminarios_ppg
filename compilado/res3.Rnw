@@ -1,5 +1,17 @@
 % ----------------------------------------------------------------------
-% 
+% Overview das pesquisas multidisciplinares do Setor de Exatas em época de pandemia
 % ----------------------------------------------------------------------
 
-Resenha 2
+Resenha do seminário ministrado no dia 29/05/2020 no Programa de Pós Graduação em Informática da UFPR por Marcos Sunye (diretor do setor de ciências exatas da UFPR).
+
+No seminário ministrado pelo professor  Marcos Sunye foram apresentadas as diversas iniciativas de cursos, programas de pós graduação, professores e pesquisadores das exatas em estudos e iniciativas com o objetivo de compreender, conter e divulgar informações de forma correta a respeito do novo corona vírus.  O Setor de Ciências Exatas possui 6 departamentos, 7 programas de pós graduação e todos estão envolvidos de algum modo em trabalhos a respeito do Covid-19.
+
+As ações vão desde a produção de álcool em gel feita pelo Departamento de Química, passando pelo uso de impressoras 3D pela Expressão Gráfica para impressão de materiais de segurança até estudos sobre a disseminação da doença e estratégias de contenção e diagnóstico.
+
+Existe a iniciativa Portal Covid-19 que tem por objetivo agregar informações, modelos e visualizações de dados sobre a pandemia. Com contribuições de pesquisadores dos Departamentos de Estatística, Informática, Física, Matemática e Saúde da Universidade.
+
+Além disso existem projetos vinculados à pesquisadores da Física como o do professor Marcus Beims que faz uso do modelo SEIR para entender de que forma se propaga o vírus e sugerir medidas e estratégias para conter sua disseminação.
+
+Há também projetos com foco em testagem, como o do professor David Menotti que faz uso de técnicas de processamento de imagem, visão computacional e aprendizado de máquinas para diagnóstico em que a entrada é uma radiografia do pulmão do paciente.
+
+E diversos outros projetos em andamento que avaliam a viabilidade e como proceder de forma segura e eficiente o retorno das atividades, como de que forma manter a disposição dos laboratórios e técnicas para aferição de temperatura dos alunos que entram nas instalações da Universidade, por exemplo.

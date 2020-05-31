@@ -375,9 +375,14 @@
 <<res2, child = "res2.Rnw">>=
 @
 
-\chapter{Resenha 3}
-\label{cap:res2}
+\chapter{Overview das pesquisas multidisciplinares do Setor de Exatas em época de pandemia}
+\label{cap:res3}
 <<res3, child = "res3.Rnw">>=
+@
+
+\chapter{Resenha 4}
+\label{cap:res4}
+<<res4, child = "res4.Rnw">>=
 @
 
 % ---
