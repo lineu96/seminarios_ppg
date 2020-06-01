@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.18)  31 MAY 2020 01:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.18)  1 JUN 2020 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2231,30 +2231,36 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 ] [10
 
+] [11] [12
+
+] [13] [14
+
+] [15] [16
+
 ]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 582.
+(in both cases you will find help in the memoir manual). on input line 628.
 
-[11]
+[17]
 \tf@toc=\write6
 \openout6 = `01-tcc.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 582.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 582.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 628.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 628.
  (./01-tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 582.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 582.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 582.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 628.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 628.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 628.
  ) 
 Here is how much of TeX's memory you used:
- 37170 strings out of 492982
- 695604 string characters out of 6134895
- 918213 words of memory out of 5000000
- 39987 multiletter control sequences out of 15000+600000
- 588719 words of font info for 156 fonts, out of 8000000 for 9000
+ 37206 strings out of 492982
+ 695898 string characters out of 6134895
+ 918486 words of memory out of 5000000
+ 39993 multiletter control sequences out of 15000+600000
+ 589832 words of font info for 170 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,65p,10336b,650s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -2264,10 +2270,10 @@ ts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 01-tcc.pdf (13 pages, 419989 bytes).
+Output written on 01-tcc.pdf (19 pages, 428078 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 30274 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 30298 words of extra memory for PDF output out of 35830 (max. 10000000)
 

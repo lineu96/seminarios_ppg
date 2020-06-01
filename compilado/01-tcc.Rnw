@@ -380,9 +380,24 @@
 <<res3, child = "res3.Rnw">>=
 @
 
-\chapter{Resenha 4}
+\chapter{Mulheres nas Ciências: ações de Pesquisa e Extensão}
 \label{cap:res4}
 <<res4, child = "res4.Rnw">>=
+@
+
+\chapter{Software Modernization}
+\label{cap:res5}
+<<res5, child = "res5.Rnw">>=
+@
+
+\chapter{Resenha 6}
+\label{cap:res6}
+<<res6, child = "res6.Rnw">>=
+@
+
+\chapter{Resenha 7}
+\label{cap:res7}
+<<res7, child = "res7.Rnw">>=
 @
 
 % ---

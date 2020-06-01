@@ -1,0 +1,13 @@
+% ----------------------------------------------------------------------
+% Software Modernization
+% ----------------------------------------------------------------------
+
+Resenha do seminário ministrado no dia 01/06/2020 no Programa de Pós Graduação em Ciência da Computação da UTFPR por Wesley Klewerton (professor na UTFPR).
+
+O trabalho apresentado pelo professor Wesley Klewerton tinha como objetivo definir e implementar uma metodologia automatizada para re-engenharia de um conjunto de modelos dentro de um Software Product Line Engineering (SPL).
+
+Engenharia de Software área da Computação que se propõe a estudar e propor soluções para desenvolver sistemas de software de forma produtiva. Tarefa que em geral envolve partes complexas como produto (o que será o resultado final), processo (como fazer) e autores (individual, equipe, etc). Além disso, na Engenharia de Software, deve haver uma preocupação com a qualidade interna (aquela que diz respeito aos desenvolvedores) e externa (que diz respeito ao usuário).
+
+Software modernization é uma área de Engenharia de Software que trata de problemas como conversão, reescrita ou portabilidade de sistemas para uma versão mais moderna de linguagem, protocolos ou hardware. Pode se tratar de uma tarefa custosa devido ao risco, dificuldade e à ausência de uma ferramenta de propósito geral para realização desta tarefa (por mais que hajam algumas técnicas específicar para fazê-lo).
+
+A necessidade da modernização pode levar à re-engenharia, migração, substituição e reuso. A reutilização trata-se da reciclagem, isto é, aproveitar um projeto já existente e modificá-lo para obter outro produto final. Existem técnicas como Software Product Line Engineering (SPL) que é um paradigma para sistematização das técnicas de reuso. Já a re-engenharia é a análise e alteração de um sistema a fim de sua reestruturação em uma nova forma e, este trabalho para SPLs consiste de diferentes fases e propósitos. Trata-se de um tema complexo e de literatura limitada e , no trabalho, foi proposta uma implementação de metodologia automatizada para re-engenharia de um conjunto de modelos dentro de um SPL.

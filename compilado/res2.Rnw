@@ -2,7 +2,7 @@
 % Fortes correlações entre o crescimento (tipo Lei de Potência) da COVID-19 em quatro continentes e a ineficiência das estratégias suaves de quarentena
 % ----------------------------------------------------------------------
 
-Resenha do seminário ministrado no dia 28/05/2020 no Programa de Pós Graduação em Informática da UFPR por Marcus Beims (professor do Departamento de Física da UFPR).
+Resenha do seminário ministrado no dia 28/05/2020 no Programa de Pós Graduação em Física da UFPR por Marcus Beims (professor do Departamento de Física da UFPR).
 
 No seminário ministrado pelo professor Marcus Beims foi apresentado um breve contexto a respeito de modelos epidemiológicos, como o modelo de suscetíveis e imunes (SI), o modelo de suscetíveis, infectados e recuperados (SIR) e o modelo Suscetíveis, Expostos, Infectados e Recuperados (SEIR).
 

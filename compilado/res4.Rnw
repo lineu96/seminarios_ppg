@@ -1,4 +1,17 @@
 % ----------------------------------------------------------------------
-% 
+% Mulheres nas Ciências: ações de Pesquisa e Extensão
 % ----------------------------------------------------------------------
 
+Resenha do seminário ministrado no dia 01/06/2020 no Programa de Pós Graduação em Informática da UFPR por Camila Silveira da Silva (professora do Departamento de Química da UFPR).
+
+No seminário mistrado pela professora Camila Silveira foram abordados aspectos da evidente desigualdade de gênero nas ciências de modo geral e, mais especificamente, nas ciências exatas, onde a ausência de equidade é ainda mais gritante.
+
+Numa primeira provocação a professora sugeriu que fizéssemos um questionamento: quantas mulheres cientistas você conhce? O que prontamente nos mostra como a imagem de cientista está vinculada à figura esteriotipada de homem branco no laboratório.
+
+Após este exercício foram apresentadas uma série de motivos da necessacidade de se falar sobre mulheres na ciência na atualidade como o fato de apenas 30\% de pesquisadores de ciência e tecnologia serem do sexo feminino, percentual bastante distante de um nível real de representatividade. Além disso, desde 1901 apenas 5\% dos prêmios Nobel foram destinados a pesquisadoras.
+
+Foi discutida também a ausência políticas que busquem igualdade de gênero nas universidades e a falta de incentivo ao sexo feminino para se fazer ciência, o que vem desde a infância com brinquedos temáticos sendo destinados à seção masculina de lojas infantis e vão até os desafios enfrentados por mulheres na academia, como comentários inadequados feitos por colegas homens e maternidade, grande fator de evasão entre as mulheres.
+
+Dentre os 17 objetivos listados pela ONU visando desenvolvimento sustentável até 2030, um deles diz respeito à igualdade de gênero e tem como metas acabar com a desigualdade de gênero, eliminar toda e qualquer forma de violência contra a mulher, garantir a participação de mulheres com igualdade de oportunidade em todas as esferas da sociedade desde recursos econômicos até oportunidade de liderança na vida política, econômica e pública.
+
+Por fim, foram apresentados uma série de movimentos atuais que buscam atingir estes objetivos nacional e internacionalmente com ênfase no Projeto de Extensão da Universidade Federal do Paraná Meninas e Mulheres na Ciência que conta com a participação de professoras e docentes de graduação e pós graduação das mais diversas áreas da Universidade.
