@@ -13,8 +13,18 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Software Modernization}}{13}{chapter.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Resenha 6}}{15}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Ligados pela linguagem: di\IeC {\'a}logos poss\IeC {\'\i }veis entre linguistas e cientistas de computa\IeC {\c c}\IeC {\~a}o}}{15}{chapter.6}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Resenha 7}}{17}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Dan\IeC {\c c}ando com rob\IeC {\^o}s: planejamento autom\IeC {\'a}tico de mitiga\IeC {\c c}\IeC {\~a}o intermitente para Covid-19}}{17}{chapter.7}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Resenha 8}}{19}{chapter.8}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Resenha 9}}{21}{chapter.9}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Resenha 10}}{23}{chapter.10}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Resenha 11}}{25}{chapter.11}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Resenha 12}}{27}{chapter.12}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

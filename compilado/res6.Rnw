@@ -1,4 +1,15 @@
 % ----------------------------------------------------------------------
-% 
+% Ligados pela linguagem: diálogos possíveis (e necessários) entre linguistas e cientistas de computação
 % ----------------------------------------------------------------------
 
+Resenha do seminário ministrado no dia 05/06/2020 no Programa de Pós Graduação em Informática da UFPR por Adelaide H. Pescatori Silva (professora do Departamento de Letras UFPR e pós-doc PPGInf).
+
+No seminário ministrado pela professora Adelaide foram tratados num primeiro momento as similaridades entre linguística (estudo da linguagem humana) e computação (análise de dados através de linguagens artificiais) e a sua relação com um mesmo objeto de interesse: a linguagem. 
+
+Foi apresentado que a linguística é construída por partes ou módulos e a compreensão da estrutura geral e de cada módulo auxilia na compreensão do todo, enquanto que, de modo similar, na programação, apenas alguns pequenos blocos de funcionalidades, quando combinados, são suficientes para solucionar diversos tipos de problema. Outro ponto interessante comentado foi a semelhança entre os diagramas do processamento da fala humana por um falante e o processamento de dados feito por um computador e que, em ambos os casos, há um papel fundamental da memória.
+
+Um ponto histórico em que a convergência entre linguística e computação resultou num produto foi o desenvolvimento de "máquinas falantes" que, dentre as possíveis funcionalidades pode-se citar síntese, tradução e até mesmo a própria comunicação entre humano e máquina. Além de outros produtos gerados ao longo do tempo como ferramentas de tradução automática, reconhecimento e interpretação de fala, classificação e produção de textos, sistemas de busca, etc.
+
+Foi apresentada também a grande similaridade entre o processo de estudos a respeito de linguística e o processo percorrido pela ciência de dados, que consiste em: fazer uma pergunta (hipótese), coletar dados, tratá-los e explorálos, buscar modelos que permitam inferir os resultados amostrais para uma população e por fim, interpretar os resultados de modo a verificar se a hipótese inicial foi ou não aceita, isto é, se há evidência suficiente para rejeitar ou não a hipótese inicialmente levantada.
+
+Por fim a professora Adelaide apresentou o plano do seu trabalho de pós-doc: a criação de um jogo para fixação de normas ortográficas de modo contextualizado em que o público alvo seriam alunos do Fundamental II (6º ao 9º ano) que faz uso de linguística probabilística e técnicas de aprendizado de máquina. Um plano altamente motivado pelo atual cenário de pandemia em que se fazem necessárias ferramentas educacionais remotas.

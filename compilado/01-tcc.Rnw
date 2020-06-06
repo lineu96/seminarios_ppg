@@ -390,14 +390,39 @@
 <<res5, child = "res5.Rnw">>=
 @
 
-\chapter{Resenha 6}
+\chapter{Ligados pela linguagem: diálogos possíveis entre linguistas e cientistas de computação}
 \label{cap:res6}
 <<res6, child = "res6.Rnw">>=
 @
 
-\chapter{Resenha 7}
+\chapter{Dançando com robôs: planejamento automático de mitigação intermitente para Covid-19}
 \label{cap:res7}
 <<res7, child = "res7.Rnw">>=
+@
+
+\chapter{Resenha 8}
+\label{cap:res8}
+<<res8, child = "res8.Rnw">>=
+@
+
+\chapter{Resenha 9}
+\label{cap:res9}
+<<res9, child = "res9.Rnw">>=
+@
+
+\chapter{Resenha 10}
+\label{cap:res10}
+<<res10, child = "res10.Rnw">>=
+@
+
+\chapter{Resenha 11}
+\label{cap:res11}
+<<res11, child = "res11.Rnw">>=
+@
+
+\chapter{Resenha 12}
+\label{cap:res12}
+<<res12, child = "res12.Rnw">>=
 @
 
 % ---
