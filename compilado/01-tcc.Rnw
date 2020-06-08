@@ -400,7 +400,7 @@
 <<res7, child = "res7.Rnw">>=
 @
 
-\chapter{Resenha 8}
+\chapter{Validação de Sistema de Aprendizado de Máquinas para auxílio ao diagnóstico do COVID-19 baseado em imagens torácicas de arquivo radiológico}
 \label{cap:res8}
 <<res8, child = "res8.Rnw">>=
 @

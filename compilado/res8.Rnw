@@ -1,4 +1,21 @@
 % ----------------------------------------------------------------------
-% 
+% Validação de Sistema de Aprendizado de Máquinas para auxílio ao diagnóstico do COVID-19 baseado em imagens torácicas de arquivo radiológico 
 % ----------------------------------------------------------------------
+
+Resenha do seminário ministrado no dia 08/06/2020 no Programa de Pós Graduação em Informática da UFPR por David Menotti (professor do Departamento de Informática UFPR).
+
+No seminário ministrado pelo professor David foram tratados aspectos sobre o Inteligêcia Aritificial, Machine Learning e Deep Learning. Entende-se por Inteligência Artificial o ramo que busca mecanismos e dispositivos com o objetivo de simular a capacidade do ser humano de raciocinar e resolver problemas. Dentro da Inteligência Artificial existe o Aprendizado de Máquina (Machine Learning) em que um modelo analítico é treinado para prever ou classificar resultados futuros.
+
+Um tipo específico de Machine Learning é chamado de Deep Learning que tem como objetivo treinar máquinas para que reconheçam padrões de forma mais próxima a como um ser humano faria, como por exemplo: reconhecimento de fala, identificação de imagem e previsões.
+
+Máquinas não tem consciência, contudo são capazes de aprender e isso é mostrado por dispositivos e produtos que surgiram ao longo da história como veículos autônomos. 
+
+Na prática, tanto máquinas quanto seres humanos aprendem da mesma forma: a partir de bons exemplos e correção em caso de erro. Como ilustração de possíveis métodos apresentados para esse fim, no contexto de aprendizado de máquina, foram apresentadas as Redes Neurais Artificiais e os Support Vector Machines. 
+
+Já no contexto de Deep Learning fatores que influenciam para adequada execução são o desenvolvimento de algoritmos, capacidade de hardware para processar grandes massas de dados e disponibilidade de dados adequados. A grande diferença entre as técnicas de Machine Learning tradicionais e o Deep Learning é a característica dos descritores. Nas técnicas tradicionais os descritores são fixos, enquanto que nas técnicas de aprendizado profundo são treináveis.
+
+Após esta contextualização foram apresentados diversos eventos importantes no que diz respeito às técnicas de Deep Learning. Por fim, o professor David falou a respeito do trabalho desenvolvido em tempos de pandemia cujo objetivo era desenvolver um sistema de aprendizado de máquinas para auxílio ao diagnóstico do COVID-19 baseado em imagens torácicas de arquivo radiológico e as dificuldades de continuidade do trabalho devido ao impasse com comitês de ética.
+
+
+
 

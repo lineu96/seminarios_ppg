@@ -17,7 +17,7 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Dan\IeC {\c c}ando com rob\IeC {\^o}s: planejamento autom\IeC {\'a}tico de mitiga\IeC {\c c}\IeC {\~a}o intermitente para Covid-19}}{17}{chapter.7}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Resenha 8}}{19}{chapter.8}
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o de Sistema de Aprendizado de M\IeC {\'a}quinas para aux\IeC {\'\i }lio ao diagn\IeC {\'o}stico do COVID-19 baseado em imagens tor\IeC {\'a}cicas de arquivo radiol\IeC {\'o}gico}}{19}{chapter.8}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Resenha 9}}{21}{chapter.9}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
