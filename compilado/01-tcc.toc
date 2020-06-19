@@ -19,7 +19,7 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o de Sistema de Aprendizado de M\IeC {\'a}quinas para aux\IeC {\'\i }lio ao diagn\IeC {\'o}stico do COVID-19 baseado em imagens tor\IeC {\'a}cicas de arquivo radiol\IeC {\'o}gico}}{19}{chapter.8}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Resenha 9}}{21}{chapter.9}
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Impacto econ\IeC {\^o}mico da COVID-19 no Brasil: podemos culpar o isolamento social?}}{21}{chapter.9}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Resenha 10}}{23}{chapter.10}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }

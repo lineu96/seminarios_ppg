@@ -405,7 +405,7 @@
 <<res8, child = "res8.Rnw">>=
 @
 
-\chapter{Resenha 9}
+\chapter{Impacto econômico da COVID-19 no Brasil: podemos culpar o isolamento social?}
 \label{cap:res9}
 <<res9, child = "res9.Rnw">>=
 @
