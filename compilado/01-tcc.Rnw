@@ -415,7 +415,7 @@
 <<res10, child = "res10.Rnw">>=
 @
 
-\chapter{Resenha 11}
+\chapter{Greenfield: Pesquisa científica em recursos minerais, energia e meio ambiente}
 \label{cap:res11}
 <<res11, child = "res11.Rnw">>=
 @

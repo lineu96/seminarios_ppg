@@ -23,7 +23,7 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Classifica\IeC {\c c}\IeC {\~a}o autom\IeC {\'a}tica de c\IeC {\^a}ncer de mama a partir de imagens histopatol\IeC {\'o}gicas}}{23}{chapter.10}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Resenha 11}}{25}{chapter.11}
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Greenfield: Pesquisa cient\IeC {\'\i }fica em recursos minerais, energia e meio ambiente}}{25}{chapter.11}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Resenha 12}}{27}{chapter.12}
 \vspace {\cftbeforechapterskip }
