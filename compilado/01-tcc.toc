@@ -25,6 +25,6 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Greenfield: Pesquisa cient\IeC {\'\i }fica em recursos minerais, energia e meio ambiente}}{25}{chapter.11}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Resenha 12}}{27}{chapter.12}
+\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Ci\IeC {\^e}ncia de Redes em Ci\IeC {\^e}ncia de Dados: Desafios}}{27}{chapter.12}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

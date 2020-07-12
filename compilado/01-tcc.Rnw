@@ -420,7 +420,7 @@
 <<res11, child = "res11.Rnw">>=
 @
 
-\chapter{Resenha 12}
+\chapter{Ciência de Redes em Ciência de Dados: Desafios}
 \label{cap:res12}
 <<res12, child = "res12.Rnw">>=
 @
